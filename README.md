@@ -3,8 +3,10 @@ A clone of the SNES match-3 puzzle game Tetris Attack
 
 Download Link: http://www.mediafire.com/download/n3z5rrx276r35r7/Tetris+Attack+Clone.rar
 
-Minimum Requirements:
-OS: Windows 7/8
-Memory: 4 GB
-CPU: Intel Core i3-2350M 2.30 GHz
-Graphics: Intel HD 3000 Graphics
+Minimum Requirements are based off the specs the laptop I developed on had. I'm sure it should work on lower end machines, but this is the least I can guarantee. 
+
+Minimum Requirements:<br>
+OS: Windows 7/8 <br>
+Memory: 4 GB<br>
+CPU: Intel Core i3-2350M 2.30 GHz <br>
+Graphics: Intel HD 3000 Graphics<br>
