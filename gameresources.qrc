@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../blocks/_pieces.png</file>
+        <file>../player/playercursor.png</file>
+        <file>../fonts/prstartk.ttf</file>
+        <file>../screenshots/ingame.png</file>
+        <file>../screenshots/losing.png</file>
+        <file>../screenshots/gameover.png</file>
+        <file>../screenshots/background.png</file>
+        <file>../screenshots/highscores.png</file>
+        <file>../logo/csueastbaylogo.png</file>
+    </qresource>
+</RCC>
