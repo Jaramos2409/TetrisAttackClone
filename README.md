@@ -1,7 +1,7 @@
 # TetrisAttackClone
 A clone of the SNES match-3 puzzle game Tetris Attack
 
-Download Link: jesusramos.me/projects/tetrisattackclone/Tetris_Attack_Clone.rar
+Download Link: http://jesusramos.me/projects/tetrisattackclone/Tetris_Attack_Clone.rar
 
 Minimum Requirements are based off the specs the laptop I developed on had. I'm sure it should work on lower end machines, but this is the least I can guarantee. 
 
